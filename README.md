@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hola, soy Roberto Alejandro 👋
 
-<!--
-**RobbeAlex/RobbeAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mí
 
-Here are some ideas to get you started:
+Estudiante de **Inteligencia Artificial y Ciencia de Datos** en la Universidad de Guadalajara. Soy un apasionado por la construcción de sistemas inteligentes, abarcando desde pipelines de Machine Learning e Ingeniería de Datos, hasta el desarrollo de aplicaciones Full-Stack integradas con IA generativa. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me motiva resolver problemas del mundo real, ya sea diagnosticando enfermedades con visión computacional o creando agentes autónomos para negocios.
+
+- 🎓 **Educación:** IA & Data Science @ UDG.
+- 💡 **Intereses:** Machine Learning, MLOps, Agentes IA (LLMs), Data Engineering.
+- 🚀 **Actualmente aprendiendo:** Arquitecturas RAG, Procesamiento de datos en tiempo real (Streaming) y despliegue en la nube.
+- 📫 **Contáctame:** www.linkedin.com/in/r0bb3al3x
+
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+**Inteligencia Artificial & Datos**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Backend & Bases de Datos**  
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📂 Proyectos Destacados
+
+* 🧠 **Agente de Ventas IA:** Agente autónomo construido con LangGraph, modelos fundacionales (LLMs) y memoria persistente en PostgreSQL.
+* ⚕️ **Healthcare AI:** Pipelines completos de Deep Learning orientados a la clasificación de imágenes médicas (Cáncer de mama y Enfermedades pulmonares).
+* 📊 **Data Engineering ETL:** Arquitecturas de extracción, transformación y carga (ETL) de datos orientadas a análisis empresarial.
+* 📈 **MLOps & Demand Forecasting:** Modelos predictivos para series de tiempo, optimización de inventarios y prevención de fuga de clientes (Churn).
+
+---
+
+### 📈 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobbeAlex&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de RobbeAlex" />
+</div>
