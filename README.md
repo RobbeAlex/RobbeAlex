@@ -42,11 +42,8 @@ Me motiva resolver problemas del mundo real, ya sea diagnosticando enfermedades 
 * ⚕️ **Healthcare AI:** Pipelines completos de Deep Learning orientados a la clasificación de imágenes médicas (Cáncer de mama y Enfermedades pulmonares).
 * 📊 **Data Engineering ETL:** Arquitecturas de extracción, transformación y carga (ETL) de datos orientadas a análisis empresarial.
 * 📈 **MLOps & Demand Forecasting:** Modelos predictivos para series de tiempo, optimización de inventarios y prevención de fuga de clientes (Churn).
+* 🤖 **DocuMind AI:** Extrae conocimiento de tus documentos al instante. Un motor RAG impulsado por Google Gemini.
+* 🩺 **Sistema Predictivo de Respuesta Metabólica y Nutrición Clínica:** Plataforma End-to-End de Ingeniería de Datos, Machine Learning y MLOps diseñada para predecir diagnósticos y cuadros clínicos gastrointestinales a partir de biomarcadores inflamatorios, diversidad del microbioma intestinal, métricas antropométricas y planes de nutrición clínica.
+* 💳 **Detección Automatizada de Fraude, Descubrimiento de Anomalías y Reglas de Decisión:** Desarrolla el descubrimiento de patrones de comportamiento anómalos y reglas de decisión accionables para la detección automatizada de fraude bancario aplicando de extremo a extremo las 7 etapas del proceso KDD
 
 ---
-
-### 📈 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobbeAlex&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de RobbeAlex" />
-</div>
